@@ -1,0 +1,872 @@
+[{
+    "code" : "EURAUT",
+    "name" : "Austria"
+},
+{
+    "code" : "LACCYM",
+    "name" : "Cayman Islands"
+},
+{
+    "code" : "AFRERI",
+    "name" : "Eritrea"
+},
+{
+    "code" : "EURHUN",
+    "name" : "Hungary"
+},
+{
+    "code" : "AFRLBR",
+    "name" : "Liberia"
+},
+{
+    "code" : "AFRNAM",
+    "name" : "Namibia"
+},
+{
+    "code" : "AFRRWA",
+    "name" : "Rwanda"
+},
+{
+    "code" : "LACBRB",
+    "name" : "Barbados"
+},
+{
+    "code" : "ASICHN",
+    "name" : "China"
+},
+{
+    "code" : "EURFIN",
+    "name" : "Finland"
+},
+{
+    "code" : "ASIIRQ",
+    "name" : "Iraq"
+},
+{
+    "code" : "ASIMAC",
+    "name" : "Macao SAR, China"
+},
+{
+    "code" : "OCNNZL",
+    "name" : "New Zealand"
+},
+{
+    "code" : "AFRSEN",
+    "name" : "Senegal"
+},
+{
+    "code" : "AFRDZA",
+    "name" : "Algeria"
+},
+{
+    "code" : "LACVGB",
+    "name" : "British Virgin Islands"
+},
+{
+    "code" : "EURCZE",
+    "name" : "Czech Republic"
+},
+{
+    "code" : "LACGRD",
+    "name" : "Grenada"
+},
+{
+    "code" : "ASIPRK",
+    "name" : "Korea, Dem. People's Rep."
+},
+{
+    "code" : "LACMEX",
+    "name" : "Mexico"
+},
+{
+    "code" : "LACPRY",
+    "name" : "Paraguay"
+},
+{
+    "code" : "NAMBMU",
+    "name" : "Bermuda"
+},
+{
+    "code" : "LACCRI",
+    "name" : "Costa Rica"
+},
+{
+    "code" : "ASIGEO",
+    "name" : "Georgia"
+},
+{
+    "code" : "LACJAM",
+    "name" : "Jamaica"
+},
+{
+    "code" : "ASIMDV",
+    "name" : "Maldives"
+},
+{
+    "code" : "EURNOR",
+    "name" : "Norway"
+},
+{
+    "code" : "SXM",
+    "name" : "Sint Maarten (Dutch part)"
+},
+{
+    "code" : "LACARG",
+    "name" : "Argentina"
+},
+{
+    "code" : "AFRCPV",
+    "name" : "Cabo Verde"
+},
+{
+    "code" : "LACECU",
+    "name" : "Ecuador"
+},
+{
+    "code" : "LACGUY",
+    "name" : "Guyana"
+},
+{
+    "code" : "ASILAO",
+    "name" : "Lao PDR"
+},
+{
+    "code" : "EURMNE",
+    "name" : "Montenegro"
+},
+{
+    "code" : "LACPRI",
+    "name" : "Puerto Rico"
+},
+{
+    "code" : "EURALB",
+    "name" : "Albania"
+},
+{
+    "code" : "LACBRA",
+    "name" : "Brazil"
+},
+{
+    "code" : "ASICYP",
+    "name" : "Cyprus"
+},
+{
+    "code" : "NAMGRL",
+    "name" : "Greenland"
+},
+{
+    "code" : "OCNKIR",
+    "name" : "Kiribati"
+},
+{
+    "code" : "AFRMUS",
+    "name" : "Mauritius"
+},
+{
+    "code" : "OCNPNG",
+    "name" : "Papua New Guinea"
+},
+{
+    "code" : "AFRZAF",
+    "name" : "South Africa"
+},
+{
+    "code" : "ASIAZE",
+    "name" : "Azerbaijan"
+},
+{
+    "code" : "AFRCAF",
+    "name" : "Central African Republic"
+},
+{
+    "code" : "EUREST",
+    "name" : "Estonia"
+},
+{
+    "code" : "EURISL",
+    "name" : "Iceland"
+},
+{
+    "code" : "AFRLBY",
+    "name" : "Libya"
+},
+{
+    "code" : "OCNNRU",
+    "name" : "Nauru"
+},
+{
+    "code" : "OCNWSM",
+    "name" : "Samoa"
+},
+{
+    "code" : "LACBOL",
+    "name" : "Bolivia"
+},
+{
+    "code" : "EURHRV",
+    "name" : "Croatia"
+},
+{
+    "code" : "AFRGHA",
+    "name" : "Ghana"
+},
+{
+    "code" : "ASIJOR",
+    "name" : "Jordan"
+},
+{
+    "code" : "EURMLT",
+    "name" : "Malta"
+},
+{
+    "code" : "ASIPAK",
+    "name" : "Pakistan"
+},
+{
+    "code" : "EURSVN",
+    "name" : "Slovenia"
+},
+{
+    "code" : "LACABW",
+    "name" : "Aruba"
+},
+{
+    "code" : "AFRCMR",
+    "name" : "Cameroon"
+},
+{
+    "code" : "LACSLV",
+    "name" : "El Salvador"
+},
+{
+    "code" : "LACHND",
+    "name" : "Honduras"
+},
+{
+    "code" : "ASILBN",
+    "name" : "Lebanon"
+},
+{
+    "code" : "AFRCIV",
+    "name" : "Cote d'Ivoire"
+},
+{
+    "code" : "ASIBTN",
+    "name" : "Bhutan"
+},
+{
+    "code" : "EURDEU",
+    "name" : "Germany"
+},
+{
+    "code" : "ASIJPN",
+    "name" : "Japan"
+},
+{
+    "code" : "AFRMLI",
+    "name" : "Mali"
+},
+{
+    "code" : "ASIOMN",
+    "name" : "Oman"
+},
+{
+    "code" : "EURSVK",
+    "name" : "Slovak Republic"
+},
+{
+    "code" : "ASIARM",
+    "name" : "Armenia"
+},
+{
+    "code" : "ASIKHM",
+    "name" : "Cambodia"
+},
+{
+    "code" : "AFREGY",
+    "name" : "Egypt, Arab Rep."
+},
+{
+    "code" : "LACHTI",
+    "name" : "Haiti"
+},
+{
+    "code" : "EURLVA",
+    "name" : "Latvia"
+},
+{
+    "code" : "AFRMAR",
+    "name" : "Morocco"
+},
+{
+    "code" : "ASIQAT",
+    "name" : "Qatar"
+},
+{
+    "code" : "LACBLZ",
+    "name" : "Belize"
+},
+{
+    "code" : "AFRCOD",
+    "name" : "Congo, Dem. Rep."
+},
+{
+    "code" : "AFRGAB",
+    "name" : "Gabon"
+},
+{
+    "code" : "ASIISR",
+    "name" : "Israel"
+},
+{
+    "code" : "AFRMWI",
+    "name" : "Malawi"
+},
+{
+    "code" : "AFRNGA",
+    "name" : "Nigeria"
+},
+{
+    "code" : "AFRSLE",
+    "name" : "Sierra Leone"
+},
+{
+    "code" : "OCNAUS",
+    "name" : "Australia"
+},
+{
+    "code" : "NAMCAN",
+    "name" : "Canada"
+},
+{
+    "code" : "AFRGNQ",
+    "name" : "Equatorial Guinea"
+},
+{
+    "code" : "ASIHKG",
+    "name" : "Hong Kong SAR, China"
+},
+{
+    "code" : "AFRLSO",
+    "name" : "Lesotho"
+},
+{
+    "code" : "ASIMMR",
+    "name" : "Myanmar"
+},
+{
+    "code" : "EURRUS",
+    "name" : "Russian Federation"
+},
+{
+    "code" : "AFRSSD",
+    "name" : "South Sudan"
+},
+{
+    "code" : "LACBHS",
+    "name" : "Bahamas, The"
+},
+{
+    "code" : "AFRTCD",
+    "name" : "Chad"
+},
+{
+    "code" : "AFRETH",
+    "name" : "Ethiopia"
+},
+{
+    "code" : "ASIIND",
+    "name" : "India"
+},
+{
+    "code" : "EURLIE",
+    "name" : "Liechtenstein"
+},
+{
+    "code" : "ASINPL",
+    "name" : "Nepal"
+},
+{
+    "code" : "EURSMR",
+    "name" : "San Marino"
+},
+{
+    "code" : "EURBIH",
+    "name" : "Bosnia and Herzegovina"
+},
+{
+    "code" : "LACCUB",
+    "name" : "Cuba"
+},
+{
+    "code" : "EURGIB",
+    "name" : "Gibraltar"
+},
+{
+    "code" : "ASIKAZ",
+    "name" : "Kazakhstan"
+},
+{
+    "code" : "OCNMHL",
+    "name" : "Marshall Islands"
+},
+{
+    "code" : "OCNPLW",
+    "name" : "Palau"
+},
+{
+    "code" : "OCNSLB",
+    "name" : "Solomon Islands"
+},
+{
+    "code" : "ASIBGD",
+    "name" : "Bangladesh"
+},
+{
+    "code" : "LACCHL",
+    "name" : "Chile"
+},
+{
+    "code" : "OCNFJI",
+    "name" : "Fiji"
+},
+{
+    "code" : "ASIIRN",
+    "name" : "Iran, Islamic Rep."
+},
+{
+    "code" : "EURLUX",
+    "name" : "Luxembourg"
+},
+{
+    "code" : "OCNNCL",
+    "name" : "New Caledonia"
+},
+{
+    "code" : "ASISAU",
+    "name" : "Saudi Arabia"
+},
+{
+    "code" : "EURBEL",
+    "name" : "Belgium"
+},
+{
+    "code" : "AFRCOM",
+    "name" : "Comoros"
+},
+{
+    "code" : "OCNPYF",
+    "name" : "French Polynesia"
+},
+{
+    "code" : "EURIMN",
+    "name" : "Isle of Man"
+},
+{
+    "code" : "AFRMDG",
+    "name" : "Madagascar"
+},
+{
+    "code" : "AFRNER",
+    "name" : "Niger"
+},
+{
+    "code" : "AFRSYC",
+    "name" : "Seychelles"
+},
+{
+    "code" : "EURAND",
+    "name" : "Andorra"
+},
+{
+    "code" : "EURBGR",
+    "name" : "Bulgaria"
+},
+{
+    "code" : "AFRDJI",
+    "name" : "Djibouti"
+},
+{
+    "code" : "LACGTM",
+    "name" : "Guatemala"
+},
+{
+    "code" : "ASIKOS",
+    "name" : "Kosovo"
+},
+{
+    "code" : "EURMDA",
+    "name" : "Moldova"
+},
+{
+    "code" : "ASIPHL",
+    "name" : "Philippines"
+},
+{
+    "code" : "AFRBEN",
+    "name" : "Benin"
+},
+{
+    "code" : "AFRCOG",
+    "name" : "Congo, Rep."
+},
+{
+    "code" : "AFRGMB",
+    "name" : "Gambia, The"
+},
+{
+    "code" : "EURITA",
+    "name" : "Italy"
+},
+{
+    "code" : "ASIMYS",
+    "name" : "Malaysia"
+},
+{
+    "code" : "OCNMNP",
+    "name" : "Northern Mariana Islands"
+},
+{
+    "code" : "ASISGP",
+    "name" : "Singapore"
+},
+{
+    "code" : "AFRMOZ",
+    "name" : "Mozambique"
+},
+{
+    "code" : "EURROU",
+    "name" : "Romania"
+},
+{
+    "code" : "ASIAFG",
+    "name" : "Afghanistan"
+},
+{
+    "code" : "AFRBWA",
+    "name" : "Botswana"
+},
+{
+    "code" : "CUW",
+    "name" : "Curacao"
+},
+{
+    "code" : "EURGRC",
+    "name" : "Greece"
+},
+{
+    "code" : "AFRKEN",
+    "name" : "Kenya"
+},
+{
+    "code" : "AFRMRT",
+    "name" : "Mauritania"
+},
+{
+    "code" : "LACPAN",
+    "name" : "Panama"
+},
+{
+    "code" : "AFRSOM",
+    "name" : "Somalia"
+},
+{
+    "code" : "LACATG",
+    "name" : "Antigua and Barbuda"
+},
+{
+    "code" : "AFRBDI",
+    "name" : "Burundi"
+},
+{
+    "code" : "LACDOM",
+    "name" : "Dominican Republic"
+},
+{
+    "code" : "AFRGNB",
+    "name" : "Guinea-Bissau"
+},
+{
+    "code" : "ASIKGZ",
+    "name" : "Kyrgyz Republic"
+},
+{
+    "code" : "ASIMNG",
+    "name" : "Mongolia"
+},
+{
+    "code" : "EURPRT",
+    "name" : "Portugal"
+},
+{
+    "code" : "EURBLR",
+    "name" : "Belarus"
+},
+{
+    "code" : "LACCOL",
+    "name" : "Colombia"
+},
+{
+    "code" : "EURFRA",
+    "name" : "France"
+},
+{
+    "code" : "EURIRL",
+    "name" : "Ireland"
+},
+{
+    "code" : "EURMKD",
+    "name" : "Macedonia, FYR"
+},
+{
+    "code" : "LACNIC",
+    "name" : "Nicaragua"
+},
+{
+    "code" : "EURSRB",
+    "name" : "Serbia"
+},
+{
+    "code" : "OCNASM",
+    "name" : "American Samoa"
+},
+{
+    "code" : "ASIBRN",
+    "name" : "Brunei Darussalam"
+},
+{
+    "code" : "EURDNK",
+    "name" : "Denmark"
+},
+{
+    "code" : "OCNGUM",
+    "name" : "Guam"
+},
+{
+    "code" : "ASIKOR",
+    "name" : "Korea, Rep."
+},
+{
+    "code" : "OCNFSM",
+    "name" : "Micronesia, Fed. Sts."
+},
+{
+    "code" : "LACPER",
+    "name" : "Peru"
+},
+{
+    "code" : "EURESP",
+    "name" : "Spain"
+},
+{
+    "code" : "ASIBHR",
+    "name" : "Bahrain"
+},
+{
+    "code" : "EUR830",
+    "name" : "Channel Islands"
+},
+{
+    "code" : "EURFRO",
+    "name" : "Faroe Islands"
+},
+{
+    "code" : "ASIIDN",
+    "name" : "Indonesia"
+},
+{
+    "code" : "EURLTU",
+    "name" : "Lithuania"
+},
+{
+    "code" : "EURNLD",
+    "name" : "Netherlands"
+},
+{
+    "code" : "AFRSTP",
+    "name" : "Sao Tome and Principe"
+},
+{
+    "code" : "AFRAGO",
+    "name" : "Angola"
+},
+{
+    "code" : "AFRBFA",
+    "name" : "Burkina Faso"
+},
+{
+    "code" : "LACDMA",
+    "name" : "Dominica"
+},
+{
+    "code" : "AFRGIN",
+    "name" : "Guinea"
+},
+{
+    "code" : "ASIKWT",
+    "name" : "Kuwait"
+},
+{
+    "code" : "EURMCO",
+    "name" : "Monaco"
+},
+{
+    "code" : "EURPOL",
+    "name" : "Poland"
+},
+{
+    "code" : "EURSWE",
+    "name" : "Sweden"
+},
+{
+    "code" : "AFRTZA",
+    "name" : "Tanzania"
+},
+{
+    "code" : "AFRZWE",
+    "name" : "Zimbabwe"
+},
+{
+    "code" : "ASIVNM",
+    "name" : "Vietnam"
+},
+{
+    "code" : "LACTTO",
+    "name" : "Trinidad and Tobago"
+},
+{
+    "code" : "LACVEN",
+    "name" : "Venezuela, RB"
+},
+{
+    "code" : "NAMUSA",
+    "name" : "United States"
+},
+{
+    "code" : "OCNTON",
+    "name" : "Tonga"
+},
+{
+    "code" : "ASITHA",
+    "name" : "Thailand"
+},
+{
+    "code" : "OCNTUV",
+    "name" : "Tuvalu"
+},
+{
+    "code" : "ASITJK",
+    "name" : "Tajikistan"
+},
+{
+    "code" : "AFRZMB",
+    "name" : "Zambia"
+},
+{
+    "code" : "EURCHE",
+    "name" : "Switzerland"
+},
+{
+    "code" : "LACVIR",
+    "name" : "Virgin Islands (U.S.)"
+},
+{
+    "code" : "LACSUR",
+    "name" : "Suriname"
+},
+{
+    "code" : "OCNVUT",
+    "name" : "Vanuatu"
+},
+{
+    "code" : "ASILKA",
+    "name" : "Sri Lanka"
+},
+{
+    "code" : "LACTCA",
+    "name" : "Turks and Caicos Islands"
+},
+{
+    "code" : "AFRTUN",
+    "name" : "Tunisia"
+},
+{
+    "code" : "AFRTGO",
+    "name" : "Togo"
+},
+{
+    "code" : "ASISYR",
+    "name" : "Syrian Arab Republic"
+},
+{
+    "code" : "ASIPSE",
+    "name" : "West Bank and Gaza"
+},
+{
+    "code" : "LACKNA",
+    "name" : "St. Kitts and Nevis"
+},
+{
+    "code" : "LACVCT",
+    "name" : "St. Vincent and the Grenadines"
+},
+{
+    "code" : "LACURY",
+    "name" : "Uruguay"
+},
+{
+    "code" : "LACLCA",
+    "name" : "St. Lucia"
+},
+{
+    "code" : "ASIARE",
+    "name" : "United Arab Emirates"
+},
+{
+    "code" : "ASITUR",
+    "name" : "Turkey"
+},
+{
+    "code" : "TWN",
+    "name" : "Taiwan, China"
+},
+{
+    "code" : "ASIYEM",
+    "name" : "Yemen, Rep."
+},
+{
+    "code" : "AFRSDN",
+    "name" : "Sudan"
+},
+{
+    "code" : "ASIUZB",
+    "name" : "Uzbekistan"
+},
+{
+    "code" : "MAF",
+    "name" : "St. Martin (French part)"
+},
+{
+    "code" : "EURUKR",
+    "name" : "Ukraine"
+},
+{
+    "code" : "AFRSWZ",
+    "name" : "Swaziland"
+},
+{
+    "code" : "EURGBR",
+    "name" : "United Kingdom"
+},
+{
+    "code" : "AFRUGA",
+    "name" : "Uganda"
+},
+{
+    "code" : "ASITKM",
+    "name" : "Turkmenistan"
+},
+{
+    "code" : "ASITLS",
+    "name" : "Timor-Leste"
+}]
