@@ -113,8 +113,8 @@ export default {
       });
 
       this.period_range = d3.extent(data, d => { 
-        let date = d.date.split('-');
-        return new Date(date[0],date[1],date[2]).getTime();
+        let str = d.date.split('-');
+        return new Date(+str[0],+str[1]-1,+str[2]);
       });
     },
     changePeriodSelected(value){

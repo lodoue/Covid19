@@ -49,7 +49,7 @@ export default {
       if (d3.event.x >= this.sliderScale.range()[0] && d3.event.x <= this.sliderScale.range()[1]) {
         this.slide.handler = d3.event.x;
         var date = this.sliderScale.invert(this.slide.handler);
-        this.$parent.$emit('changePeriodSelected', `${date.getFullYear()}-${date.getMonth()}-${date.getDate()}`);
+        this.$parent.$emit('changePeriodSelected', `${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}`);
       }
     },
     play(duration) {
@@ -76,7 +76,7 @@ export default {
       return (t) => { 
         this.slide.handler = slided(t);
         var date = this.sliderScale.invert(this.slide.handler);
-        this.$parent.$emit('changePeriodSelected', `${date.getFullYear()}-${date.getMonth()}-${date.getDate()}`);
+        this.$parent.$emit('changePeriodSelected', `${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}`);
       };
     },
     endSlide() {
